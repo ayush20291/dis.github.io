@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-manrope: 'Poppins', sans-serif;
+  --font-advent-pro: 'Poppins', sans-serif;
+
+  /* Colors */
+  --color-darkolivegreen: #081e18;
+  --green: #79caa1;
+
+  /* border radiuses */
+  --br-xs: 12px;
+}
